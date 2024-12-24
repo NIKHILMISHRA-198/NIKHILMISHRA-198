@@ -1,44 +1,25 @@
 # Hi there, I'm Nikhil Mishra 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and constantly learning new technologies. Here you'll find some of the projects I've been working on.
+Tech Enthusiast | Problem Solver | Perpetual Learner | A Really Good Listener 🌐
+
+I’m passionate about building full-stack applications, leveraging technologies like Angular, Java, Python, Node.js, and more. I thrive on creating dynamic, impactful solutions.
+I also have experience leading marketing and UX efforts at an early-stage Ed-Tech startup, where I navigated the challenges of blending technology with innovative education content.
+
+Let’s Connect:
+Open to conversations with tech enthusiasts, marketers, and fellow problem solvers!
 
 ## About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies You're Learning]**
-- 👯 I’m looking to collaborate on **[Projects or Areas of Interest]**
-- 🤔 I’m looking for help with **[Specific Challenges or Topics]**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- 📫 How to reach me:
 
 ## Skills
 
-Here are some of the technologies I work with:
-
-- **Languages:** [List of Programming Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Tools & Platforms:** [List of Tools and Platforms]
-
-## Projects
-
-### [Project Name]
-[Short Description of the Project]
-[Link to the Project Repository]
-
-### [Another Project Name]
-[Short Description of the Project]
-[Link to the Project Repository]
-
-## GitHub Stats
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKHILMISHRA-198&show_icons=true&theme=radical)
+- **Frontend:** Angular, React, Flutter
+- **Backend:** Spring Boot (Java), Python, FastAPI
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/nikhilkumarmishra/)
+- [Gmail](nikhilkumarmishra2@gmail.com)
 
 Thanks for visiting my profile! Have a great day!
